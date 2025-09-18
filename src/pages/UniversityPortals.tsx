@@ -32,7 +32,7 @@ const UniversityPortals = () => {
     },
   ];
 
-  const chatbotUrl = "http://chatbot-social-safe-chat.lovable.app";
+  const chatbotUrl = "https://social-safe-chat-84.lovable.app";
 
   return (
     <div className="min-h-screen bg-background">
